@@ -9,5 +9,6 @@
 
 ### And how valuable are these picks compared with each other? What is the value increase as we go from 30 to 15? As much as any other 15 draft pick range in the draft?
 
+##### Special thanks for Hockey Reference for providing the data. Links to the filtered data is included in the notebook
 
 
