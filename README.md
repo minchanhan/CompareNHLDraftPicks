@@ -1,5 +1,6 @@
 # Comparing Low 1st Round Picks and High 2nd Round Picks in the NHL
 ### By. Minchan Han
+##### Open Full Analysis and Model.pdf file for more!
 
 ### This is my first Data Science/Machine Learning Project!
 ### I have collected draft data from Hockey-Reference.com to evaluate the value of the 16th - 45th picks.
