@@ -1,6 +1,7 @@
 # Comparing Low 1st Round Picks and High 2nd Round Picks in the NHL
 ### By. Minchan Han
-##### Open Full Analysis and Model.pdf file for more!
+### (For best viewing experience, download HTML file "Full Analysis and Model". You will be redirected to a page with raw HTML content.
+### Right click on that page, save the file using "save as" and click on the downloaded file to see a perfectly formatted file.)
 
 ### This is my first Data Science/Machine Learning Project!
 ### I have collected draft data from Hockey-Reference.com to evaluate the value of the 16th - 45th picks.
@@ -14,14 +15,10 @@
 #### Cells 1 - 12 = Data Analysis
 #### Cells 13 - 31 = Predictive Model
 
-### For best viewing experience, download HTML file "Full Analysis and Model". You will be redirected to a page with raw HTML content.
-### Right click on that page, save the file using "save as" and click on the downloaded file to see a perfectly formatted file.
-
 #### Content preview:
 ![preview1](https://user-images.githubusercontent.com/34926654/111702794-30d5b480-8813-11eb-82f0-915a194a5391.png)
 ![preview2](https://user-images.githubusercontent.com/34926654/111702884-4d71ec80-8813-11eb-8ce2-4de2f07e80b0.png)
 ![preview3](https://user-images.githubusercontent.com/34926654/111703037-772b1380-8813-11eb-95f2-fdb8f78a5e61.png)
-
 
 ### Special thanks to Hockey Reference for the data. Links to the filtered data is included in the notebook
 ##### (Low 1st Round = 16th - 30th Picks | High 2nd Round = 31st - 45th Picks)
